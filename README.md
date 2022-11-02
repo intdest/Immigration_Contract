@@ -1,5 +1,5 @@
 # <img src="logo.svg" alt="intd" height="40px">
-# <img src="blockchain.jpg" alt="intdestcoin" height="100%">
+# <img src="https://academy-public.coinmarketcap.com/srd-optimized-uploads/5593f6f8038242b689de5bc8cbe1fde2.jpg" alt="intdestcoin" height="100%">
 
 ## Immigration-contract
 Due to upgrading the body of the smart contract, rewriting and publishing a new version to receive an audit certificate, all active INTD networks will migrate to the new contract. Full information is included below.<br>
@@ -9,7 +9,7 @@ Due to upgrading the body of the smart contract, rewriting and publishing a new 
 * New SmartContract Address: x8Bb93979901cd159bF6763B223FBb315C31CCF7b
 
 ### Immigration instructions:
-* Ethereum : 0x8Bb93979901cd159bF6763B223FBb315C31CCF7b - in progress
+* Ethereum : 0xaEeb517E65501BCD72399D639A5D993661EFeB68 - was done
 * BSC : 0x8Bb93979901cd159bF6763B223FBb315C31CCF7b - was done
 * Polygon: 0x8Bb93979901cd159bF6763B223FBb315C31CCF7b - was done
 * Fantom: 0x8Bb93979901cd159bF6763B223FBb315C31CCF7b - New network
