@@ -1,18 +1,37 @@
 # <img src="logo.svg" alt="intd" height="40px">
-# <img src="5593f6f8038242b689de5bc8cbe1fde2.jpg" alt="intdestcoin" height="100%">
-# Immigration-contract
-INTDESTCOIN is an ecosystem that validates value for anything, anywhere. It has enabled the validation of any digital content with no geographic location restrictions.
+# <img src="blockchain.jpg" alt="intdestcoin" height="100%">
 
-> INTDESTCOIN  is a solution to the evolution of the Blockchain world
+## Immigration-contract
+Due to upgrading the body of the smart contract, rewriting and publishing a new version to receive an audit certificate, all active INTD networks will migrate to the new contract. Full information is included below.<br>
 
-### INTD: 
-To create an integrated financial ecosystem for INTDEST services that includes but is not limited to short selling and hedging tools, an optimized [trading](https://coinmarketcap.com/alexandria/glossary/spot-trading) algorithm from global investors, and [Cryptocurrency](https://coinmarketcap.com/alexandria/glossary/cryptocurrency) [exchange](https://coinmarketcap.com/alexandria/glossary/exchange) using the most popular payment tools.
+## SmartContract Address:
+* Previous and old contracts to the address: 0xb08ba4ad6bc291f4f1e79c4c7f9395141b8d5797
+* New SmartContract Address: x8Bb93979901cd159bF6763B223FBb315C31CCF7b
 
-## What is the reason behind INTD?
-* Creating a platform for synchronizing INTDEST services
-* The communication [bridge](https://coinmarketcap.com/alexandria/glossary/bridges) of data and information between users, INTDEST services
-* Providing [payment](https://coinmarketcap.com/alexandria/glossary/funding-payments) for INTDEST services
-* Creating equal shares for users in INTDEST services
-Use for governance credentials to identify how network resources are [allocated](https://coinmarketcap.com/alexandria/glossary/allocation)
-* Holding and profiting from [staking](https://coinmarketcap.com/alexandria/glossary/staking-pool) INTD
-* Receive commission during transfer between XCHAIN network in addition to [STAKE](https://coinmarketcap.com/alexandria/glossary/staking-pool)
+### Immigration instructions:
+* Ethereum : 0x8Bb93979901cd159bF6763B223FBb315C31CCF7b - in progress
+* BSC : 0x8Bb93979901cd159bF6763B223FBb315C31CCF7b - was done
+* Polygon: 0x8Bb93979901cd159bF6763B223FBb315C31CCF7b - was done
+* Fantom: 0x8Bb93979901cd159bF6763B223FBb315C31CCF7b - New network
+* Avalanche: 0x8Bb93979901cd159bF6763B223FBb315C31CCF7b - New network
+
+> In the Binance smart chain platform, it will be completely shut down and destroyed Before PAUSE, Distribution of new INTD will be done based on the report of INTD holder addresses and the amount of coins in them.So please transfer INTDs to your personal wallet and wait for the airdrop.
+
+### After PAUSE
+* You cannot swap old INTD ! 
+* You cannot send old INTD ! 
+* You cannot buy and sell old INTD !
+
+### Features of the new contract:
+* Online on top 8 EVM networks
+* Very high transaction speed of about 12 millionths of a second
+* Very low gas fee
+* The ability to stake in CEX and receive rewards
+* Unmintable
+* Untransferable
+* Unpauseable
+* Unmanipulated
+* Failure to set TX
+* The developer and the project team have no access to the contract
+* Approved by Dex and CEX
+* Security audited Audit link: https://github.com/intdest/audits
